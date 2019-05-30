@@ -15,7 +15,7 @@ Layerd Architecture
 2.Create a repositry (git init).
 
 3.Clone the repositry(git clone)
-https://github.com/damithsuranga/POS-System-with-Hibernatep
+https://github.com/damithsuranga/POS-System-with-JPA
 
 4.Import project via Intellij Idea.
 
